@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
         main(config)
 
-        exit(0)
+        # exit(0)
 
     except Exception as er:
         print("Error:", er)
